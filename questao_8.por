@@ -10,7 +10,5 @@ programa {
     leia(senha)
    }
     escreva("senha válida")
-   }
-   }
   }
 }
